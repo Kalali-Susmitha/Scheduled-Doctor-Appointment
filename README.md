@@ -93,8 +93,7 @@ http://localhost:3000/public/index.html
 ![Image](https://github.com/user-attachments/assets/0ee20a4d-9846-4155-a078-ccd280367b70)
 
 ![Image](https://github.com/user-attachments/assets/f5114066-4720-4cc8-9717-94f76a6c19c6)
-![Image](https://github.com/user-attachments/assets/59dbb400-003b-46cf-9a7c-e52badad10b4)
-
+![Image](https://github.com/user-attachments/assets/387d9550-eccd-474a-81df-6829c183ce76)
 ![Image](https://github.com/user-attachments/assets/d867c9d6-02cf-4396-972c-c6e83ab6294c)
 
 ![Image](https://github.com/user-attachments/assets/fe6af94f-f604-428b-86f2-b4a29ceb56da)

@@ -86,12 +86,13 @@ node server.js
 Navigate to:
 http://localhost:3000/public/index.html
 ## 📷 Screenshots
-![Image](https://github.com/user-attachments/assets/13345724-cb99-40b8-9134-a0168f210816)
-![Image](https://github.com/user-attachments/assets/837d1f1f-48c5-49f4-aa28-097bfafa48dd)
+![Image](https://github.com/user-attachments/assets/6ef66444-94cc-41b7-98b2-736bc25c8b83)
 
-![Image](https://github.com/user-attachments/assets/d41ba627-5ac3-4d53-bdb6-de63cb3c57e3)
+![Image](https://github.com/user-attachments/assets/dc684a09-c001-4362-a317-2ea212758416)
 
-![Image](https://github.com/user-attachments/assets/257903ca-8ce4-40d1-b911-912cf2157658)
+![Image](https://github.com/user-attachments/assets/0ee20a4d-9846-4155-a078-ccd280367b70)
+
+![Image](https://github.com/user-attachments/assets/f5114066-4720-4cc8-9717-94f76a6c19c6)
 ![Image](https://github.com/user-attachments/assets/59dbb400-003b-46cf-9a7c-e52badad10b4)
 
 ![Image](https://github.com/user-attachments/assets/d867c9d6-02cf-4396-972c-c6e83ab6294c)

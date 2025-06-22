@@ -87,6 +87,16 @@ Navigate to:
 http://localhost:3000/public/index.html
 ## 📷 Screenshots
 ![Image](https://github.com/user-attachments/assets/13345724-cb99-40b8-9134-a0168f210816)
+![Image](https://github.com/user-attachments/assets/837d1f1f-48c5-49f4-aa28-097bfafa48dd)
+
+![Image](https://github.com/user-attachments/assets/d41ba627-5ac3-4d53-bdb6-de63cb3c57e3)
+
+![Image](https://github.com/user-attachments/assets/257903ca-8ce4-40d1-b911-912cf2157658)
+![Image](https://github.com/user-attachments/assets/59dbb400-003b-46cf-9a7c-e52badad10b4)
+
+![Image](https://github.com/user-attachments/assets/d867c9d6-02cf-4396-972c-c6e83ab6294c)
+
+![Image](https://github.com/user-attachments/assets/fe6af94f-f604-428b-86f2-b4a29ceb56da)
 
 ## 📚 Project Objectives
 

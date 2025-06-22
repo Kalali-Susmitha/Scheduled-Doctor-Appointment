@@ -86,6 +86,7 @@ node server.js
 Navigate to:
 http://localhost:3000/public/index.html
 ## 📷 Screenshots
+![Image](https://github.com/user-attachments/assets/431c9802-60a8-4a34-8d72-16d0971b4d1f)
 ![Image](https://github.com/user-attachments/assets/6ef66444-94cc-41b7-98b2-736bc25c8b83)
 
 ![Image](https://github.com/user-attachments/assets/dc684a09-c001-4362-a317-2ea212758416)
